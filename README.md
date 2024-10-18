@@ -25,5 +25,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hodaifa-ech&show_icons=true&locale=en&layout=compact" alt="hodaifa-ech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hodaifa-ech&show_icons=true&locale=en" alt="hodaifa-ech" /></p>
-
+<div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hodaifa-ech&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hodaifa-ech&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hodaifa-ech&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hodaifa-ech&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hodaifa-ech&theme=2077" height="180em" />
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodaifa-ech&" alt="hodaifa-ech" /></p>
