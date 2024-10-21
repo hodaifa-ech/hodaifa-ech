@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hodaifa+Echffani!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇲🇦</h3>
+<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
 
 <br/>
 
@@ -29,7 +29,7 @@
 </div>
 
  <hr/>
- [![trophy](https://github-profile-trophy.vercel.app/?username=hodaifa-ech)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
  <hr/>
