@@ -29,10 +29,10 @@
 </div>
 
  <hr/>
- 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hodaifa-ech)](https://github.com/ryo-ma/github-profile-trophy)
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
-
+ <hr/>
 <div align="center">
 
 ### 💻 Frontend Development  
