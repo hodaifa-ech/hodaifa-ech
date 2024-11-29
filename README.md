@@ -40,7 +40,7 @@
 <br/><br/>
 
 ### 🔧 Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,mysql,postgres,firebase,mongodb,oracle" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,mysql,postgres,firebase,mongodb,oracle,spring boot" alt="Backend" />
 <br/><br/>
 
 ### 🎮 Game Development  
