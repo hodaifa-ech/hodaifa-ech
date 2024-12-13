@@ -13,7 +13,7 @@
  
 🔭 I’m currently  Software Engineering Student**
  
- 🌱 I’m currently learning **Docker, Angular, AWS**
+ 🌱 I’m currently learning **Docker, ngular, AWS**
 
 💬 Ask me about **Laravel, React, Spring boot... 
  </div>
