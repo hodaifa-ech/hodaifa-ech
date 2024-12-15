@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center"> 
  
 🔭 I’m currently  Software Engineering Student**
  
