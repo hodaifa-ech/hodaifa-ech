@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center"> 
- 
+  
 🔭 I’m currently  Software Engineering Student**
  
  🌱 I’m currently learning **Docker, Angular, AWS**
