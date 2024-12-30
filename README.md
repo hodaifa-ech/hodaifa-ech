@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Docker, Angular, AWS**
 
-💬 Ask me about **Laravel, React, Spring boot... 
+💬 Ask me about **Laravel, React, Spring boot...  
  </div>
  
 <div align="center"> 
