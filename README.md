@@ -15,7 +15,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  🔭 I’m currently a <b>Software Engineering Student</b> <br/>
+  🔭 I’m currently a <b>Software Engineering Student</b> <br/> 
   🌱 I’m currently learning <b>Docker, Angular, AWS</b> <br/>
   💬 Ask me about <b>Laravel, React, Spring Boot...</b>
 </div>
